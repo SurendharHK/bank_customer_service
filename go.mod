@@ -1,4 +1,4 @@
-module github.com/surendharHK/bank_customer_service
+module github.com/SurendharHK/bank_customer_service
 
 go 1.21.0
 

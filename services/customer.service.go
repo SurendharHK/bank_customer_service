@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/surendharHK/bank_customer_service/interfaces"
-	"github.com/surendharHK/bank_customer_service/models"
+	"github.com/SurendharHK/bank_customer_service/interfaces"
+	"github.com/SurendharHK/bank_customer_service/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 )
